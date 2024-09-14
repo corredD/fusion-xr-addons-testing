@@ -1,0 +1,32 @@
+newmtl 0xffa5001
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 1 0.647 0
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x00ff001
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0 1 0
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x00bfff1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0 0.749 1
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xff00001
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 1 0 0
+Ks 0.25 0.25 0.25
+d 1

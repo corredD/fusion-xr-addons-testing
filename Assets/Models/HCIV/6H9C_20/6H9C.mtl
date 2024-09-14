@@ -1,0 +1,240 @@
+newmtl 0xffffe51
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 1 1 0.898
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xfcfed91
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.988 0.996 0.851
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xfafdce1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.98 0.992 0.808
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xf8fcc21
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.973 0.988 0.761
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xf6fbb81
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.965 0.984 0.722
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xeef8b21
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.933 0.973 0.698
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xe6f5ac1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.902 0.961 0.675
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xdef2a71
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.871 0.949 0.655
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xd6eea11
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.839 0.933 0.631
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xcae99c1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.792 0.914 0.612
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xbfe4961
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.749 0.894 0.588
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xb4e0911
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.706 0.878 0.569
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0xa7da8b1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.655 0.855 0.545
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x9ad4861
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.604 0.831 0.525
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x8cce811
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.549 0.808 0.506
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x7ec87b1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.494 0.784 0.482
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x62bb6e1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.384 0.733 0.431
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x54b4661
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.329 0.706 0.4
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x3ca4581
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.235 0.643 0.345
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x349a521
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.204 0.604 0.322
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x2c904b1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.173 0.565 0.294
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x2486441
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.141 0.525 0.267
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x1c7e401
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.11 0.494 0.251
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x13773d1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.075 0.467 0.239
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x0a703a1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.039 0.439 0.227
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x0168371
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0.004 0.408 0.216
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x0060331
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0 0.376 0.2
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x0057301
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0 0.341 0.188
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x004e2c1
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0 0.306 0.173
+Ks 0.25 0.25 0.25
+d 1
+newmtl 0x0045291
+illum 2
+Ns 163
+Ni 0.001
+Ka 0 0 0
+Kd 0 0.271 0.161
+Ks 0.25 0.25 0.25
+d 1
